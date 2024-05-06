@@ -1,0 +1,2 @@
+template_idx,sample_num_count,Validity,Uniqueness,Validity*Uniqueness,validity_num,uniqueness_num,Connected_Components,mol_stable,atom_stable,run_time
+4m0y_ligand,70,41.43,72.41,30.00,29.00,21.00,100.00,0.90,1.00,995.32
