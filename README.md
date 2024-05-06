@@ -13,7 +13,7 @@
  - flask >=2.1.3
 
 ## Download the trained DiffShape model
-Download the trained DiffShape model from [Google Cloud Drive](https://drive.google.com/drive/folders/1qTRhD-CvgXCE9cvWX5dHEzDxHsPH6Qck), and then place the downloaded .ckpt file in the ./outputs/model folder
+Download the trained DiffShape model from [Google Cloud Drive](https://drive.google.com/drive/folders/1qTRhD-CvgXCE9cvWX5dHEzDxHsPH6Qck), and then place the downloaded .ckpt file in the ```./outputs/model``` folder
 
 ## Sampling example
 - sample 1z95_ligand.sdf
