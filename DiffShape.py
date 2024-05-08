@@ -133,7 +133,7 @@ def main():
     test_template, test_smiles = get_template(args.input, control_data_dict)
 
     # model_dir = './_internal/model'
-    model_dir = f"{os.getcwd()}/outputs/model"
+    model_dir = f"{os.getcwd()}/data/model"
     dataset_infos = geom_dataset.GeomInfos()
     model_dict = load_all_model(model_dir, dataset_infos, model_name=args.model_type)
     full_model = model_dict[args.model_type]
