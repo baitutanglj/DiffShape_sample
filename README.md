@@ -10,8 +10,9 @@
 - pytorch==2.0.1
 - rdkit==2023.03.2
 - scikit_learn==1.2.2
+- scipy==1.11.1
 - setuptools==68.0.0
-- torch_geometric==2.3.1
+- torch-geometric==2.3.1
 - torchmetrics==0.11.4
 - tqdm==4.65.0
 
