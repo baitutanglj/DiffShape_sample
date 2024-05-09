@@ -12,7 +12,7 @@
 - torch-geometric==2.3.1
 - torchmetrics==0.11.4
 - tqdm==4.65.0
-###Create a conda environment with the following command
+### Create a conda environment with the following command
 ```conda env create -f environment.yml```
 
 ## Download the trained DiffShape model
